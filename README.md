@@ -1,16 +1,31 @@
-## Hi there 👋
+ Olá, eu sou o Marcus Vinicius 
 
-<!--
-**Devmarcusvin/Devmarcusvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Licenciatura em Computação (UnB).  
+Interessado em **Desenvolvimento Web** e **Back-End**.  
+Atualmente estudando **Python, SQL e JavaScript** e construindo projetos práticos (CRUD, APIs, automações e sites simples).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias
+- **Python** (básico–intermediário) · **Flask / FastAPI** *(em estudo)*
+- **SQL** (SQLite / MySQL) · modelagem de dados
+- **HTML · CSS · JavaScript**
+- **Git & GitHub** • **Excel / Power BI** *(noções)*
+
+---
+
+## 🚀 Projetos (em construção)
+- `crud-clientes` — CRUD em Python + SQLite
+- `calculadora-python` — calculadora de terminal
+- `portfolio` — site pessoal simples
+
+> Assim que eu publicar os repositórios, atualizo os links aqui.
+
+---
+
+## 📫 Contato
+- **LinkedIn:** (https://www.linkedin.com/in/marcus-vinicius-paz-vieira-88309b224/)
+- **E-mail:** vieirapazm@gmail.com
+- **Instagram:** (https://www.instagram.com/r_markrj/)
+
+
