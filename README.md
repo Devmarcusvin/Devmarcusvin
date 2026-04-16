@@ -1,55 +1,59 @@
- # 👋 Hi, I'm Marcus Vinicius Paz Vieira  
+# 👨‍💻 Marcus Vinicius Paz Vieira
 
-🎓 **Computer Science undergraduate** at the University of Brasília (UnB)  
-💻 Passionate about **programming, education, and technology**  
-📍 Based in Brasília, Brazil  
-
----
-
-## 🚀 About Me  
-I’m currently a Computer Science student at UnB, with experience in **technical support**, **Python programming**, and **educational projects** such as PIBID and LVIS.  
-I enjoy solving problems, creating practical solutions, and sharing knowledge through technology and teaching.  
+🎓 Estudante de Computação | 💻 Foco em Desenvolvimento e Tecnologia
+📍 Brasília - DF
 
 ---
 
-## 🛠️ Skills  
+## 🚀 Sobre mim
 
-### Languages & Tools  
-- **Python** (Intermediate)  
-- **JavaScript** (Basic)  
-- **SQL & Databases** (Basic)  
-- **Excel (Intermediate)** | **Power BI (Basic)**  
-- **Computer Maintenance & IT Support**  
+Sou estudante de Licenciatura em Computação pela Universidade de Brasília (UnB), com experiência em suporte técnico e interesse crescente em desenvolvimento de sistemas, automação e tecnologias modernas.
 
-### Soft Skills  
-- Leadership  
-- Problem-Solving  
-- Adaptability  
-- Attention to Detail  
+Tenho conhecimento em programação com Python, JavaScript e desenvolvimento web (HTML/CSS), além de noções de Power BI e análise de dados. Busco constantemente evoluir minhas habilidades através de projetos práticos e estudos contínuos.
 
 ---
 
-## 💼 Experience  
+## 🛠️ Tecnologias e Ferramentas
 
-- **Technical Support** at *Camom Telecom* (2024 – Present)  
-- **Stock Assistant** at *JKA Construções* (2023 – 2024)  
-- **Sales Assistant** at *Dom Casero* (2023)  
-
----
-
-## 📚 Complementary Activities  
-- **PIBID (Institutional Program for Teaching Initiation Scholarships)** – developing pedagogical activities and teaching JavaScript to high school students.  
-- **LVIS (Visualization, Immersion, and Simulation Laboratory – UnB)** – academic projects, programming, and data analysis.  
+* Python (intermediário)
+* JavaScript (básico)
+* HTML e CSS
+* Power BI (básico)
+* Git e GitHub
+* Suporte técnico (Help Desk / Service Desk)
+* Manutenção de computadores
 
 ---
 
-## 📫 How to reach me  
-- Email: [vieirapazm@gmail.com](  
-- LinkedIn: [linkedin.com/in/marcusviniciuspazvieira]
-- Instagram: [instagram.com/seuusuario]
+## 📂 Projetos em destaque
+
+### 🔹 Automações com Python
+
+Scripts desenvolvidos para automatizar tarefas simples, como organização de arquivos e manipulação de dados.
+
+### 🔹 Desenvolvimento Web
+
+Criação de páginas utilizando HTML, CSS e JavaScript, com foco em estrutura, interatividade e boas práticas.
+
+### 🔹 Lógica de Programação
+
+Exercícios e projetos voltados para desenvolvimento do raciocínio lógico e resolução de problemas.
 
 ---
-⭐️ Feel free to explore my repositories and connect with me!  
+
+## 🎯 Objetivo
+
+Busco oportunidades na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e evoluir como desenvolvedor, contribuindo com soluções eficientes e inovadoras.
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [vieirapazm@gmail.com](mailto:vieirapazm@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/marcus-vinicius-paz-vieira
+* 💻 GitHub: https://github.com/Devmarcusvin
+
+---
 
 
 
